@@ -12,14 +12,14 @@ An app that leverages Google Map's API, and recommends a list of restaurants bas
 ## Installation
 
 1. Clone the repository:
-   ```
-    git clone https://github.com/jadekam16/food-findr.git
+```
+git clone https://github.com/jadekam16/food-findr.git
 
-    cd food-finder
+cd food-finder
 
-    cd client
-    npm start
-  ```
+cd client
+npm start
+```
 
 ## Usage
 
